@@ -35,8 +35,8 @@ router.get('/get/html', function (req, res) {
 
     res.writeHead(200, { 'Content-Type': 'text/html' });
 
-    let xml = fs.readFileSync('TechShop.xml', 'utf8'),
-        xsl = fs.readFileSync('TechShop.xsl', 'utf8');
+    let xml = fs.readFileSync('shop.xml', 'utf8'),
+        xsl = fs.readFileSync('shop.xsl', 'utf8');
 
     console.log(xml);
     console.log(xsl);
