@@ -40,6 +40,6 @@
                         </xsl:for-each>
                     </tbody>
                 </table>
-                  <script src="../js/TravelExcursions.js">x</script>
+                  <script src="../js/TechShop.js">x</script>
     </xsl:template>
 </xsl:stylesheet>
