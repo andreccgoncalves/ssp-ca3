@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<options>
+  <section name="South America">
+    <entry>
+      <item>Brazil</item>
+      <price>3000.00</price>
+    </entry>
+    <entry>
+      <item>Peru</item>
+      <price>4500.00</price>
+    </entry>
+    <entry sales="true">
+      <item>Colombia</item>
+      <price>1600.00</price>
+    </entry>
+  </section>
+  <section name="Europe">
+    <entry>
+      <item>France</item>
+      <price>1300.00</price>
+    </entry>
+    <entry>
+      <item>Netherlands</item>
+      <price>200.00</price>
+    </entry>
+    <entry sales="true">
+      <item>Croatia</item>
+      <price>150.00</price>
+    </entry>
+  </section>
+  <section name="Africa">
+    <entry>
+      <item>Botsuwana</item>
+      <price>260.00</price>
+    </entry>
+    <entry>
+      <item>South Africa</item>
+      <price>570.00</price>
+    </entry>
+    <entry sales="true">
+      <item>Namibia</item>
+      <price>70.00</price>
+    </entry>
+  </section>
+  <section name="Asia">
+    <entry>
+      <item>China</item>
+      <price>400.00</price>
+    </entry>
+    <entry>
+      <item>Japan</item>
+      <price>290.00</price>
+    </entry>
+    <entry sales="true">
+      <item>Malaysia</item>
+      <price>1600.00</price>
+    </entry>
+  </section>
+  <section name="North America">
+    <entry>
+      <item>Canada</item>
+      <price>200.00</price>
+    </entry>
+    <entry>
+      <item>USA</item>
+      <price>55.00</price>
+    </entry>
+    <entry sales="true">
+      <item>Mexico</item>
+      <price>90.00</price>
+    </entry>
+  </section>
+</options>
