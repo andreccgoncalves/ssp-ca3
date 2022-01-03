@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GabrielPAntoniolli/ssp-ca3.git"
+    "url": "git+https://github.com/andreccgoncalves/ssp-ca3.git"
   },
-  "author": "Gabriel Antoniolli",
+  "author": "Andre Goncalves",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GabrielPAntoniolli/ssp-ca3/issues"
+    "url": "https://github.com/andreccgoncalves/ssp-ca3/issues"
   },
-  "homepage": "https://github.com/GabrielPAntoniolli/ssp-ca3#readme",
+  "homepage": "https://github.com/andreccgoncalves/ssp-ca3#readme",
   "dependencies": {
     "express": "^4.17.2",
     "fs": "^0.0.1-security",
