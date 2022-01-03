@@ -69,7 +69,7 @@ router.post('/post/json', function (req, res) {
 
             console.log(JSON.stringify(result, null, "  "));
 
-            JSONtoXML('TravelExcursions.xml', result, function (err) {
+            JSONtoXML('shop.xml', result, function (err) {
                 if (err) console.log(err);
             });
         });
@@ -92,14 +92,14 @@ router.post('/post/delete', function (req, res) {
 
         console.log(obj)
 
-        XMLtoJSON('TravelExcursions.xml', function (err, result) {
+        XMLtoJSON('shop.xml', function (err, result) {
             if (err) throw (err);
 
             delete result.options.section[obj.section].entry[obj.entree];
 
             console.log(JSON.stringify(result, null, "  "));
 
-            JSONtoXML('TravelExcursions.xml', result, function (err) {
+            JSONtoXML('shop.xml', result, function (err) {
                 if (err) console.log(err);
             });
         });
