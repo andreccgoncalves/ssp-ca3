@@ -6,7 +6,7 @@
 
                     <thead>
                         <tr>
-                            <th colspan="4">Tech Shop Options</th>
+                            <th colspan="4">Andre's Shop </th>
                         </tr>
                         <tr>
                             <th>Select</th>
@@ -40,6 +40,6 @@
                         </xsl:for-each>
                     </tbody>
                 </table>
-                  <script src="../js/TechShop.js">x</script>
+                  <script src="../js/shop.js">x</script>
     </xsl:template>
 </xsl:stylesheet>
