@@ -53,3 +53,5 @@ $(document).ready(function ()
 {
 	draw_table();
 });
+
+/* reference: https://github.com/mikhail-cct/ssp-practical/blob/main/views/js/table.js */
