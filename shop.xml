@@ -1,73 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <options>
-  <section name="Computers">
+  <section name="Perfumes">
     <entry>
-      <item>Laptop</item>
-      <price>3000.00</price>
-    </entry>
-    <entry>
-      <item>Desktop</item>
-      <price>4500.00</price>
-    </entry>
-    <entry sales="true">
-      <item>Phone</item>
-      <price>1600.00</price>
-    </entry>
-  </section>
-  <section name="TVs">
-    <entry>
-      <item>Digital</item>
-      <price>1300.00</price>
-    </entry>
-    <entry>
-      <item>Projector</item>
-      <price>200.00</price>
-    </entry>
-    <entry sales="true">
-      <item>Stand</item>
+      <item>Carolina Herrera</item>
       <price>150.00</price>
     </entry>
-  </section>
-  <section name="Cameras">
     <entry>
-      <item>Digital</item>
-      <price>260.00</price>
-    </entry>
-    <entry>
-      <item>Superzoom</item>
-      <price>570.00</price>
+      <item>Dior</item>
+      <price>130.00</price>
     </entry>
     <entry sales="true">
-      <item>Instant</item>
-      <price>70.00</price>
+      <item>Calvin Klein</item>
+      <price>80.00</price>
     </entry>
   </section>
-  <section name="Gaming">
+  <section name="Wine">
     <entry>
-      <item>Console</item>
-      <price>400.00</price>
+      <item>Cabernet Sauvignon</item>
+      <price>30.00</price>
     </entry>
     <entry>
-      <item>Virtual Reality</item>
-      <price>290.00</price>
+      <item>Pinot Grigio </item>
+      <price>25.00</price>
     </entry>
     <entry sales="true">
-      <item>PC</item>
-      <price>1600.00</price>
+      <item>Pinot Noir</item>
+      <price>25.00</price>
     </entry>
   </section>
-  <section name="Smart">
+  <section name="Jackets">
     <entry>
-      <item>Watch</item>
+      <item>The North Face</item>
       <price>200.00</price>
     </entry>
     <entry>
-      <item>Assistent</item>
-      <price>55.00</price>
+      <item>Regatta</item>
+      <price>130.00</price>
     </entry>
     <entry sales="true">
-      <item>Drones</item>
-      <price>90.00</price>
+      <item>Tommy Hilfiger</item>
+      <price>250.00</price>
+    </entry>
+  </section>
+  <section name="Tvs">
+    <entry>
+      <item>42"</item>
+      <price>300.00</price>
+    </entry>
+    <entry>
+      <item>32"</item>
+      <price>250.00</price>
+    </entry>
+    <entry sales="true">
+      <item>40"</item>
+      <price>280.00</price>
     </entry>
   </section>
 </options>
