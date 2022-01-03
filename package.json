@@ -1,0 +1,27 @@
+{
+  "name": "ssp-ca3",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielPAntoniolli/ssp-ca3.git"
+  },
+  "author": "Gabriel Antoniolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielPAntoniolli/ssp-ca3/issues"
+  },
+  "homepage": "https://github.com/GabrielPAntoniolli/ssp-ca3#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "xml2js": "^0.4.23",
+    "xslt-processor": "^0.11.5"
+  }
+}
