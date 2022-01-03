@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <xsl:template match="/">
    <meta http-equiv="Content-Type" content="text/html" charset="utf-8" />
-             <table id="TechTable" border="1" class="indent">
+             <table id="shop" border="1" class="indent">
 
                     <thead>
                         <tr>
