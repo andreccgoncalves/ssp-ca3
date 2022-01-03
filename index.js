@@ -61,7 +61,7 @@ router.post('/post/json', function (req, res) {
         
         console.log(obj);
 
-        XMLtoJSON('TravelExcursion.xml', function (err, result) {
+        XMLtoJSON('shop.xml', function (err, result) {
             if (err) throw (err);
 
             //change this later
